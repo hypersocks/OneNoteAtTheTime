@@ -11,4 +11,7 @@ http://www.ann.jussieu.fr/frey/
 
 https://www.ljll.math.upmc.fr/lehyaric/freesoft/index.htm
 
+**Flow Visualization
+
+http://www.scivis.ethz.ch/
 
