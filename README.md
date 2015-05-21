@@ -22,4 +22,7 @@ http://www.scivis.ethz.ch/
 ## Fuzzy logic
 http://www.tech.plym.ac.uk/spmc/links/fuzzy/fuzzy_artmap.html
 
+## People
+http://oldwww.unibas.it/utenti/bonfiglioli/www.html
+
 
