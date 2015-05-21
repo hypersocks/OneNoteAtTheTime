@@ -19,5 +19,6 @@ https://www.ljll.math.upmc.fr/lehyaric/freesoft/index.htm
 http://www.scivis.ethz.ch/
 
 ## Flow features detection
+## Fuzzy logic
 
 
