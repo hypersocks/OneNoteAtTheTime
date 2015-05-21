@@ -20,5 +20,6 @@ http://www.scivis.ethz.ch/
 
 ## Flow features detection
 ## Fuzzy logic
+http://www.tech.plym.ac.uk/spmc/links/fuzzy/fuzzy_artmap.html
 
 
