@@ -27,4 +27,8 @@ http://www.tech.plym.ac.uk/spmc/links/fuzzy/fuzzy_artmap.html
 ## People
 http://oldwww.unibas.it/utenti/bonfiglioli/www.html
 
+http://www.math.u-bordeaux1.fr/~dobrzyns/
+
+
+
 
