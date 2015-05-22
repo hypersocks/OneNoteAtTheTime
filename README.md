@@ -31,6 +31,9 @@ http://www.math.u-bordeaux1.fr/~dobrzyns/
 
 http://www.hiroakinishikawa.com/
 
+## Uncertainty quantification
+http://web.stanford.edu/group/uq/uq_home.html
+
 
 
 
