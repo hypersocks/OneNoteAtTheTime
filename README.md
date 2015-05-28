@@ -20,6 +20,8 @@ http://www.robertschneiders.de/meshgeneration//meshgeneration.html
 
 http://www.scivis.ethz.ch/
 
+https://www.nas.nasa.gov/Software/FAST/RND-93-010.walatka-clucas/htmldocs/FASTuserguide.html
+
 ## Flow features detection
 ## Fuzzy logic
 http://www.tech.plym.ac.uk/spmc/links/fuzzy/fuzzy_artmap.html
