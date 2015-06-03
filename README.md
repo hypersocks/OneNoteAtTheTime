@@ -36,6 +36,9 @@ http://www.hiroakinishikawa.com/
 ## Uncertainty quantification
 http://web.stanford.edu/group/uq/uq_home.html
 
+## Miscellaneous
+http://redmine.scorec.rpi.edu/anonsvn/itaps/docs/Documentation/
+
 
 
 
