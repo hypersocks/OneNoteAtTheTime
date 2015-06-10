@@ -33,6 +33,8 @@ http://www.math.u-bordeaux1.fr/~dobrzyns/
 
 http://www.hiroakinishikawa.com/
 
+http://people.nas.nasa.gov/~rogers/home.html
+
 ## Uncertainty quantification
 http://web.stanford.edu/group/uq/uq_home.html
 
